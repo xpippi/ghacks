@@ -10,3 +10,7 @@ gh release download v2.21.2 -D gh_v2.21.2 -R cli/cli
 
 # download all assets from latest release to gh_latest directory
 gh release download -p "*" -D gh_latest -R cli/cli
+
+#
+
+deb http://ftp.it.debian.org/debian bullseye-updates main contrib non-free   
